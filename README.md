@@ -1,5 +1,12 @@
 # Light-error-page
 
+▒█░░░ ▀█▀ ▒█░░▒█ ▒█▀▀▀ 　 ▒█▀▀▄ ▒█▀▀▀ ▒█▀▄▀█ ▒█▀▀▀█ ▄ 
+▒█░░░ ▒█░ ░▒█▒█░ ▒█▀▀▀ 　 ▒█░▒█ ▒█▀▀▀ ▒█▒█▒█ ▒█░░▒█ ░ 
+▒█▄▄█ ▄█▄ ░░▀▄▀░ ▒█▄▄▄ 　 ▒█▄▄▀ ▒█▄▄▄ ▒█░░▒█ ▒█▄▄▄█ ▀ 
+
+http://andri333.atwebpages.com/Light-error-page.html
+
+
 Simple, fast, minimal error page
 
 -----------------------About this error page:
